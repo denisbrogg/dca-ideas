@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+**/__pycache__/
+**/*.py[cod]
 
 # C extensions
 *.so
@@ -54,7 +54,3 @@ docs/_build/
 poetry.lock
 /.vscode/
 /.pytest_cache/
-/literature
-src/lib/data_load/__pycache__/csvs.cpython-39.pyc
-src/lib/strategies/__pycache__/__init__.cpython-39.pyc
-.gitignore
