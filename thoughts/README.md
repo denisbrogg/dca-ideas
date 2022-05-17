@@ -30,4 +30,4 @@ Since it is not the case, DCA is what we have to confidently enter the market at
 
 ## World information
 
-- [Fear and Greed Index](fear_and_greed)
+- [Fear and Greed Index](fear_and_greed.md)
