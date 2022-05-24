@@ -1,4 +1,4 @@
-# Thoughs
+# Thoughts
 
 ## What is DCA (Dollar Cost Averaging)?
 
@@ -24,7 +24,7 @@ On the other hand, DCA also has its drawbacks:
 
 ## Can we improve DCA?
 
-If there were a proven method to "time the market" or a way to go back in time, buy and HODL we wouldn't be here talking about DCA.
+If there were a proven method to "time the market", or a way to go back in time, buy and HODL we wouldn't be here talking about DCA.
 
 Since it is not the case, DCA is what we have to confidently enter the market at any time regardless of the current situation. Now the question is: **can we use available world information to consistently improve our investment performance over time?**
 

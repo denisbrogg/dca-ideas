@@ -1,6 +1,6 @@
 # Enhanced DCA strategies
 
-This repository contains thoughs and experiments on how to increase DCA investment strategy returns.
+This repository contains thoughts and experiments on how to increase DCA investment strategy returns.
 
 **Currently this repository is under development and more strategies will be added in the future.**
 
@@ -26,8 +26,8 @@ Some numbers to catch your attention. BTC/USD price history used for these exper
 
 | Strategy                                               | Total Investment | Final Value | Performance |
 | ------------------------------------------------------ | ---------------- | ----------- | ----------- |
-| DCA (Monthly, 400$ per month)                          | 10'400           | 14'225      | +48.1%      |
-| DCA (Weekly, 100$ per week)                            | 9'600            | 15'290      | +47.0%      |
+| DCA (Monthly, 400$ per month)                          | 9'600            | 14'225      | +48.1%      |
+| DCA (Weekly, 100$ per week)                            | 10'400           | 15'290      | +47.0%      |
 | (Currently) Best Enhanced DCA (Weekly, 100+? per week) | 9'900            | 14'518      | +46.6%      |
 
 ### Last Year performance
