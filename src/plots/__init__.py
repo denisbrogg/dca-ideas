@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def plot_window_backtest(df_experiments: pd.DataFrame, relative_performance: bool=False, title="") -> None:
+def plot_window_backtest(df_experiments: pd.DataFrame, relative_performance: bool=False, title="", dims=(30, 10)) -> None:
     """Show performance of every strategy in each window of time found in df_experiments. 
     Group performances by window performance obtained if holding from start to end of the window
     
@@ -38,7 +38,7 @@ def plot_window_backtest(df_experiments: pd.DataFrame, relative_performance: boo
         plt.setp(bp['caps'], color=colors[index])
         plt.setp(bp['medians'], color="red")
 
-    fig, ax = plt.subplots(figsize=(30, 10))
+    fig, ax = plt.subplots(figsize=dims)
     all_positions = []
     for i, (strategy, strategy_boxplots) in enumerate(boxplots.items()):
         positions = np.arange(0, len(strategy_boxplots)) * 2 * len(strategy_boxplots) - (len(strategy_boxplots) - i)
