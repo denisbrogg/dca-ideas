@@ -7,7 +7,7 @@ This repository contains thoughts and experiments on how to increase DCA investm
 ## What's inside this repository
 
 - [Thoughts](./thoughts): Some thoughts on Dollar Cost Averaging and possibilities to improve it
-- [Strategies](./src): Python implementations of the strategies
+- [Strategies](./src/strategies/): Python implementations of the strategies
 - [Experiments | Backtests | Results](./notebooks): Jupyter notebooks exploring and comparing strategies to different asset price history. [Current results](./notebooks/improve-dca.ipynb), obtained from both bearish and bullish scenarios show that by tweaking DCA using world's information we can expect to improve DCA performance by 6%. Winner strategy's results are compared to classic DCA in the highlights below.
 
 ## Highlights
